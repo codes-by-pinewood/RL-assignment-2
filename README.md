@@ -1,2 +1,10 @@
 ## Reinforcement Learning for CartPole
-This repository consists of our results for Assignment 2 of Reinforcement Learning at Leiden University.
+This repository consists of a comprehensive analysis of the implementation of DQN (Deep Q learning Network) on the CartPole environment. 
+The
+
+
+### Dependencies
+Python 3.x
+OpenAI Gym
+Pytorch 
+NumPy
