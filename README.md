@@ -7,3 +7,7 @@ This repository consists of a comprehensive analysis of the implementation of DQ
 - OpenAI Gym
 - Pytorch 
 - NumPy
+
+
+### Installation
+- Clone the repository: git clone https://github.com/codes-by-pinewood/RL-assignment-2
