@@ -4,7 +4,7 @@ The
 
 
 ### Dependencies
-Python 3.x
-OpenAI Gym
-Pytorch 
-NumPy
+- Python 3.x
+- OpenAI Gym
+- Pytorch 
+- NumPy
