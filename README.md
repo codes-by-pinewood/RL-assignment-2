@@ -11,3 +11,10 @@ This repository consists of a comprehensive analysis of the implementation of DQ
 
 ### Installation
 - Clone the repository: git clone https://github.com/codes-by-pinewood/RL-assignment-2
+- Install the relevant dependencies
+
+
+### Repositories
+#### Hyper-Parameter Tuning 
+- The dqn_and_dqn_er_comp.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a replay buffer.
+- 
