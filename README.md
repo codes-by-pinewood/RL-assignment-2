@@ -21,6 +21,6 @@ The section called 'Hyper-Parameter Tuning' includes a number of different .ipyn
 
 ### Ablation Study 
 The section called ablation study includes three different ablations we performed on our neural network. 
-- DQN versus DQN-ER: The dqn_and_dqn_er_comp.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a replay buffer.
-- DQN versus DQN-TN:
-- DQN versus DQN-TN-ER: 
+- DQN versus DQN-ER: The dqn_and_dqn_er_comparison.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a replay buffer.
+- DQN versus DQN-TN: The dqn_tn_and_dqn.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a target network.
+- DQN versus DQN-TN-ER: The dqn_and_dqn_tn_er.ipynb file contains a comparison of the DQN neural Network with DQN neural network without either a target network or a replay buffer.
