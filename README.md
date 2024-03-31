@@ -16,11 +16,13 @@ This repository consists of a comprehensive analysis of the implementation of DQ
 
 ### Repositories
 #### Hyper-Parameter Tuning 
-The section called 'Hyper-Parameter Tuning' includes a number of different .ipynb files where we experimented with the neural network architecture by changing the number of layers, number of neurons, and batch size of our replay buffer.
+The section called 'Hyper-Parameter Tuning' includes a number of different .py files where we experimented with the neural network architecture by changing the number of layers, number of neurons, and batch size of our replay buffer.
+- batch_size: The batch_size.py file contains a comparison of the full DQN network when changing batch size
+- 
 
 
 ### Ablation Study 
 The section called ablation study includes three different ablations we performed on our neural network. 
-- DQN versus DQN-ER: The dqn_and_dqn_er_comparison.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a replay buffer.
-- DQN versus DQN-TN: The dqn_tn_and_dqn.ipynb file contains a comparison of the DQN neural Network with DQN neural network without a target network.
-- DQN versus DQN-TN-ER: The dqn_and_dqn_tn_er.ipynb file contains a comparison of the DQN neural Network with DQN neural network without either a target network or a replay buffer.
+- DQN versus DQN-ER: The dqn_and_dqn_er_comparison.py file contains a comparison of the DQN neural Network with DQN neural network without a replay buffer.
+- DQN versus DQN-TN: The dqn_tn_and_dqn_comparison.py file contains a comparison of the DQN neural Network with DQN neural network without a target network.
+- DQN versus DQN-TN-ER: The dqn_and_dqn_tn_er_comparison.py file contains a comparison of the DQN neural Network with DQN neural network without either a target network or a replay buffer.
