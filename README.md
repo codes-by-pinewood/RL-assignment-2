@@ -20,7 +20,7 @@ The section called 'Hyper-Parameter Tuning' includes a number of different .py f
 - batch_size: The dqn_with_diff_batch_size.py file contains a comparison of the full DQN network when changing batch size
 - epsilons: The dqn_with_diff_epsilons.py file contains a comparison of the full DQN network when changing epsilon (e-greedy policy implementation)
 - temperature: The dqn_with_diff_temps.py file contains a comparison of the full DQN network when changing temperature (Boltzmann policy)
-- neurons, layers and learning rates: The diff_layers_and_neurons_lr.py file contains a comparison of the full DQN network when changing the number of neurons and number of layers in the architecture plus changing the learning rate 
+- neurons, layers and learning rates: The diff_layers_neurons_and_lr.py file contains a comparison of the full DQN network when changing the number of neurons and number of layers in the architecture plus changing the learning rate 
 
 
 ### Ablation Study 
