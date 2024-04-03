@@ -1,1 +1,2 @@
-## This repository contains all my assignment submissions for Reinforcement Learning at Leiden University. 
+## README
+This repository contains all my assignment submissions for Reinforcement Learning at Leiden University. 
